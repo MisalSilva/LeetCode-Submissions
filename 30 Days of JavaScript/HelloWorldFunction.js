@@ -1,4 +1,3 @@
-// LeetCode Problem: https://leetcode.com/problems/create-hello-world-function/
 // Create a simple function that returns "Hello World" when called.
 
 /**
