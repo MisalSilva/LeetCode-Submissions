@@ -14,7 +14,8 @@ var expect = function(val) {
         toBe: function (expect){
             if(val === expect){
                return true;
-            }else{
+            }
+            else{
                throw new Error ("Not Equal");
             }
         },
