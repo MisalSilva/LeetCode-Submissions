@@ -3,6 +3,7 @@
  * @param {Function} fn
  * @return {number[]}
  */
+
 var map = function(arr, fn) {
     const result = [];
     for (let i = 0; i < arr.length; i++) {
@@ -11,7 +12,7 @@ var map = function(arr, fn) {
     return result;
 };
 
-// Example usage:
+
 function plusone(n) {
     return n + 1;
 }
