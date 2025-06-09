@@ -1,2 +1,2 @@
 # LeetCode Submissions
-LeetCode Submissions Repository
+LeetCode Submissions Repository.
